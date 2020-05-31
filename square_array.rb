@@ -4,8 +4,8 @@ def square_array(array)
   array.each do |numbers|
     puts "Current number is #{numbers}"
     #shovel eah squared number into empty array
-    
-  
+    1 * l
+
     #return the variable of the empty array created above
    
   end
