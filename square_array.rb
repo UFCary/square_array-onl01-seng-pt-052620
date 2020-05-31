@@ -6,6 +6,6 @@ def square_array(array)
     #shovel eah squared number into empty array
   
     #return the variable of the empty array created above
-    [number].square1 << []
+   
   end
 end
